@@ -1,0 +1,12 @@
+Jira
+
+Este o aplicatie cloud de tipul software-as-a-service care ajuta o echipa sa planifice, sa urmareasca, sa raporteze si sa gestioneze munca pe care acestia o au.
+
+Cateva cuvinte cheie:
+-Issue = reprezinta un obiect care este urmarit de la creare pana la finalizare. Un 'issue' poate fi un feature, un bug, o lista de obiective, etc.
+
+-Project = este format din mai multe issues. Ajuta la buna organizare a acestor issues.
+
+-Dashboard = este o reprezentare vizuala a fluxului de lucru al unei echipe in cadrul unui proiect.
+
+-Workflow = reprezinta etapele prin care trece un issue: open->in progress->under review->final approval->done
